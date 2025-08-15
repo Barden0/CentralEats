@@ -67,4 +67,4 @@ To run CentralEats locally, follow these steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0

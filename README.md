@@ -1,8 +1,3 @@
-Here’s a complete and polished **README.md** for your GitHub repo. It includes the necessary sections and descriptions to present your WordPress-based **CentralEats** project in an organized and professional way.
-
----
-
-````markdown
 # CentralEats
 
 **CentralEats** is a convenient campus food delivery website designed to allow users to browse and order from a variety of on-campus food vendors. Whether you're in the mood for jollof rice, fried chicken, pizza, or a quick snack, CentralEats brings the best of campus dining directly to your doorstep. It’s easier than ever to enjoy delicious meals without leaving the comfort of your study spot.
@@ -30,7 +25,6 @@ To run CentralEats locally, follow these steps:
    Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/your-username/CentralEats.git
-````
 
 2. **Install WordPress**:
    Follow the [WordPress installation guide](https://wordpress.org/support/article/how-to-install-wordpress/) to set up your WordPress site.
@@ -74,26 +68,3 @@ To run CentralEats locally, follow these steps:
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Acknowledgments
-
-* **WooCommerce** for creating an amazing e-commerce solution.
-* **Shipday** for delivering on-demand solutions.
-* **WordPress Community** for continuous support and plugins.
-
-```
-
----
-
-### Key Sections Breakdown:
-1. **Project Name & Short Description**: The intro explains the app’s core purpose in a concise manner.
-2. **Features**: Key features of your platform are highlighted here for the user to understand the core functionality.
-3. **Getting Started**: A detailed guide on setting up the project locally, including the prerequisite tools and installation steps.
-4. **Technologies Used**: Mentioning the tools helps people understand what tech stack the project is built on.
-5. **Demo**: Provide a link to your live demo or staging version of the site.
-6. **Contributing**: A section to encourage open-source contributions.
-7. **Issues & Support**: A section for users to get help and file issues.
-8. **License**: It includes the MIT License, which is common for open-source projects.
-
-This will make your GitHub repository look well-organized, professional, and easy to navigate for anyone interested in your project!
-```
